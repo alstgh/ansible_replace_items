@@ -7,3 +7,4 @@
        path: /home/user/my.yml
        regexp: '^(\s*)lx_debian_tst:\n^(\s*)hosts:\n'
        replace: '\1lx_debian_tst:\n\1  hosts:\n\1    new_debian:\n'
+#####
